@@ -1,0 +1,6 @@
+﻿<Contacts>
+  <Contact Id="Anthony_Talbot" FirstName="Anthony" LastName="Talbot" Email="anthony@southridgevideo.com" />
+  <Contact Id="Charles_Campbell" FirstName="Charles" LastName="Campbell" Email="charles@proseware.com" />
+  <Contact Id="Laura_Stevens" FirstName="Laura" LastName="Stevens" Email="laura@adatam.com" />
+  <Contact Id="Charlie_Dobson" FirstName="Charlie" LastName="Dobson" Email="isabelle@adventure-works.com" />
+</Contacts>
