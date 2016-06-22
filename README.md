@@ -50,3 +50,7 @@ For additional Windows samples, see both [Windows on GitHub](http://microsoft.gi
   <td><a href="SocialInfoSampleApp">Social Information Sample App</a></td>
  </tr>
 </table>
+
+## Legal Stuff
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
